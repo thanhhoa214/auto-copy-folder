@@ -1,0 +1,529 @@
+﻿Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Creating EventLog source TestingService in log Application...
+Rolling back assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Restoring event log to previous state for source TestingService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Creating EventLog source TestingService in log Application...
+Rolling back assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Restoring event log to previous state for source TestingService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Creating EventLog source TestingService in log Application...
+Rolling back assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Restoring event log to previous state for source TestingService.
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source TestingService.
+Service TestingService is being removed from the system...
+Service TestingService was successfully removed from the system.
+Attempt to stop service TestingService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service TestingService...
+Service TestingService has been successfully installed.
+Creating EventLog source TestingService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Warning: The source AutoCopyFolderService is not registered on the local machine.
+Service AutoCopyFolderService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Installing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
+Uninstalling assembly 'E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.InstallLog
+   assemblypath = E:\fpt\Spring 2020\C#.NET\code\AutoCopyFolder\AutoCopyFolder\Testing\bin\Debug\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Warning: The source AutoCopyFolderService is not registered on the local machine.
+Service AutoCopyFolderService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\test\src\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\test\src\Testing.InstallLog
+   assemblypath = E:\test\src\Testing.exe
+Installing service AutoCopyFolderService...
+Service AutoCopyFolderService has been successfully installed.
+Creating EventLog source AutoCopyFolderService in log Application...
+Committing assembly 'E:\test\src\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\test\src\Testing.InstallLog
+   assemblypath = E:\test\src\Testing.exe
+Uninstalling assembly 'E:\test\src\Testing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\test\src\Testing.InstallLog
+   assemblypath = E:\test\src\Testing.exe
+Removing EventLog source AutoCopyFolderService.
+Service AutoCopyFolderService is being removed from the system...
+Service AutoCopyFolderService was successfully removed from the system.
+Attempt to stop service AutoCopyFolderService.
